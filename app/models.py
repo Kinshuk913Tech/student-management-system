@@ -1,5 +1,5 @@
 from http.client import UNSUPPORTED_MEDIA_TYPE
-from msilib.schema import AdminExecuteSequence
+
 from tkinter import SE
 from django.db import models
 from django.contrib.auth.models import AbstractUser
