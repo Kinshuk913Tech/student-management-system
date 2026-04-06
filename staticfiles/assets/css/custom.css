@@ -1,0 +1,16 @@
+/* Custom CSS to override dashboard colors */
+.bg-one,
+.bg-two,
+.bg-three,
+.bg-four {
+    background-color: rgb(24 174 250 / 0.2) !important;
+    border-color: #18aefa !important;
+}
+
+.bg-one .db-icon,
+.bg-two .db-icon,
+.bg-three .db-icon,
+.bg-four .db-icon {
+    background-color: #18aefa !important;
+    color: #fff !important;
+}
